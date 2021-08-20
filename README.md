@@ -1,16 +1,16 @@
-### Hi there 👋
+# Lucas Oliveira Andrade <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
 
-<!--
-**lucasoliveiraandrade/lucasoliveiraandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" /> Seja bem-vindo ao meu perfil
 
-Here are some ideas to get you started:
+Meu nome é Lucas e eu sou desenvolvedor back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :blue_heart: Apaixonado por Tecnologia
+- :coffee: Java
+- :green_heart: NoSQL
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasoliveiraandrade&show_icons=true&count_private=true&locale=pt-BR" alt="lucasoliveiraandrade" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveiraandrade&layout=compact&langs_count=7&count_private=true&locale=pt-BR" alt="lucasoliveiraandrade" />
+</div>
+
+![Snake animation](https://github.com/lucasoliveiraandrade/lucasoliveiraandrade/blob/output/github-contribution-grid-snake.svg)
