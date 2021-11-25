@@ -1,4 +1,4 @@
-# Lucas Oliveira Andrade <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
+# Lucas Andrade <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
 
 ### Olá! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" /> Seja bem-vindo ao meu perfil
 
